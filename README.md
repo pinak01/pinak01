@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pinak Debnath</h1>
 <h3 align="center">An aspiring software developer from India</h3>
 
-- 🌱 I’m currently learning **python opencv,node js, django and kotlin**
+- 🌱 I’m currently learning **python modules,node js, django and kotlin**
 
 - 📫 How to reach me **pinak2106debnath@gmail.com**
 
