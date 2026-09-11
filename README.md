@@ -20,7 +20,7 @@
 
 <h3>Backend Developer</h3>
 
-<p><code>I hate merge conflicts.</code></p>
+<p><code>I work better in the dark.</code></p>
 
 <p>
 Building scalable software and intelligent systems.
