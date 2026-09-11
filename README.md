@@ -9,7 +9,7 @@
 
 <div align="left">
 
-<img src="assets/hero-hands.svg" alt="Two pixelated hands reaching toward a retro computer window" width="100%">
+<img src="nisan.png" alt="Two pixelated hands reaching toward a retro computer window" width="100%">
 
 <br>
 
@@ -20,6 +20,16 @@
 # 💫 About Me:
 🔭 Building scalable backend systems<br>🤝 Open to collaborations & interesting projects<br>🌱 Learning distributed systems & cloud<br>💬 Ask me about Backend, Java & System Design<br>⚡ Fun fact: I love breaking down complex problems
 
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="YOUR-GIF-URL-HERE" width="240">
+
+</td>
+
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pinakdebnath/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pinak2106debnath@gmail.com) 
