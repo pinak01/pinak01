@@ -11,28 +11,28 @@
 
 <img src="nisan.png" alt="Two pixelated hands reaching toward a retro computer window" width="100%">
 
+
 <br>
 
-# Hi 👋, I'm Pinak
+<img src="me.gif" width="240" align="right" alt="Pixel art animation">
 
-**Final-year Computer Science student building scalable software and intelligent systems.**
+<p><strong><font size="6">Hi 👋, I'm Pinak</font></strong></p>
 
-# 💫 About Me:
-🔭 Building scalable backend systems<br>🤝 Open to collaborations & interesting projects<br>🌱 Learning distributed systems & cloud<br>💬 Ask me about Backend, Java & System Design<br>⚡ Fun fact: I love breaking down complex problems
+<p><strong>Final-year Computer Science student building scalable software and intelligent systems.</strong></p>
 
-</td>
+<p><strong>💫 About Me</strong></p>
 
-<td width="35%" align="center" valign="middle">
+🔭 Building scalable backend systems<br>
+🤝 Open to collaborations & interesting projects<br>
+🌱 Learning distributed systems & cloud<br>
+💬 Ask me about Backend, Java & System Design<br>
+⚡ Fun fact: I love breaking down complex problems
 
-<img src="YOUR-GIF-URL-HERE" width="240">
+<br clear="right">
 
-</td>
-
-</tr>
-</table>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pinakdebnath/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pinak2106debnath@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinakdebnath/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pinak2106debnath@gmail.com) 
 ---
 
 <div align="center">
@@ -80,7 +80,6 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0d1117&color=e6edf3&line=8d9aa6&point=e6edf3&area=true&area_color=21262d&hide_border=true&custom_title=CONTRIBUTION%20TRACE" width="96%" alt="Contribution graph">
 
 </div>
 
