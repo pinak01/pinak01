@@ -12,23 +12,51 @@
 <img src="nisan.png" alt="Two pixelated hands reaching toward a retro computer window" width="100%">
 
 
-<br>
+<div align="center">
 
-<img src="me.gif" width="240" align="right" alt="Pixel art animation">
+<h1>Hi 👋, I'm Pinak</h1>
 
-<p><strong><font size="6">Hi 👋, I'm Pinak</font></strong></p>
+<hr>
 
-<p><strong>Final-year Computer Science student building scalable software and intelligent systems.</strong></p>
+<h3>Backend Developer</h3>
 
-<p><strong>💫 About Me</strong></p>
+<p><code>I hate merge conflicts.</code></p>
 
-🔭 Building scalable backend systems<br>
-🤝 Open to collaborations & interesting projects<br>
-🌱 Learning distributed systems & cloud<br>
-💬 Ask me about Backend, Java & System Design<br>
-⚡ Fun fact: I love breaking down complex problems
+<p>
+Building scalable software and intelligent systems.
+</p>
+
+</div>
+
+<hr>
+
+<div align="center">
+
+<h2>🚀 About Me</h2>
+
+</div>
+
+<img src="bat.png" width="250" align="right" alt="Pixel art Pinak">
+
+<p>
+<strong>Pinak here — a final-year Computer Science student focused on backend engineering.</strong>
+</p>
+
+<p>
+I enjoy building scalable, production-ready systems and solving complex engineering problems.
+</p>
+
+<p>
+Currently exploring distributed systems, cloud, system design, and sharpening my problem-solving skills through DSA.
+</p>
+
+<p>
+My goal is simple: <strong>write clean code, build reliable software, and create systems that last.</strong>
+</p>
 
 <br clear="right">
+
+<hr>
 
 
 ## 🌐 Socials:
